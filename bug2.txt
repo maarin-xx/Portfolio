@@ -1,0 +1,16 @@
+Summary:The File manager does not have Vertical scroll bar
+
+Description:
+Steps to reproduce:
+
+Open the File manager
+Open a folder that contain more than one page with files
+Expected result:
+
+      A vertical scroll bar located on the far right of a window.
+
+Actual result:
+
+       A vertical scroll bar is absent.
+
+Severity: Blocker

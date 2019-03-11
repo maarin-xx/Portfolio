@@ -1,0 +1,13 @@
+Summary:"New Folder" in the toolbar has incorrect icon,
+
+Description:
+Steps to reproduce:
+
+Open the File Manager
+Expected result:
+Tool "New Folder"  in the toolbar has icon "new folde"
+
+Actual result:
+Tool "New Folder" in the toolbar has icon "delete"
+
+Severity: Blocker
